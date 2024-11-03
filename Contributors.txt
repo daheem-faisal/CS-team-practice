@@ -6,3 +6,4 @@ Name: Fatima Mubashar Gondal
 Name: Shafia Ashfaq
 Name: Noor ul Huda
 Name:Adeel Ahmed 
+Name: Jalal Ahmad
