@@ -7,3 +7,4 @@ Name: Shafia Ashfaq
 Name: Noor ul Huda
 Name:Adeel Ahmed 
 Name: Jalal Ahmad
+Name: Daheem Faisal
